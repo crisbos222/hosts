@@ -62,3 +62,4 @@ while read -r ip hostname rest; do
         echo "IP invalid in /etc/hosts: $ip"
     fi
 done < /etc/hosts
+echo "Modificare realizata de Spau Andreea"
